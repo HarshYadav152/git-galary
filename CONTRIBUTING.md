@@ -9,7 +9,7 @@ Thank you for your interest in contributing! 🎉
 - **Test your changes** thoroughly.
 - **Open a Pull Request** with a clear description of your changes and why they are needed.
 - **Link related issues** in your PR description if applicable.
-- **Be respectful** and follow the [Code of Conduct](https://github.com/HarshYadav152/git-galary/CODE_OF_CONDUCT).
+- **Be respectful** and follow the [Code of Conduct](https://github.com/HarshYadav152/git-galary/blob/main/CODE_OF_CONDUCT.md).
 
 ## Opening Issues
 

@@ -87,4 +87,4 @@ A visually stunning, futuristic web app to discover random GitHub user avatars, 
 
 ## 📄 License
 
-MIT [License](https://github.com/HarshYadav152/git-galary/LICENSE)
+MIT [License](https://github.com/HarshYadav152/git-galary/blob/main/LICENSE)
