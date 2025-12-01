@@ -36,6 +36,7 @@ A visually stunning, futuristic web app to discover random GitHub user avatars, 
    ```bash
    git clone https://github.com/HarshYadav152/git-galary.git
    cd git-galary
+   cd ui
    ```
 2. **Install dependencies:**
    ```bash
